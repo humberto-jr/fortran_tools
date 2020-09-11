@@ -30,6 +30,8 @@ For details: https://people.sc.fsu.edu/~jburkardt/f_src/toms661/toms661.html
 toms790_lib.f90: module, constructs an interpolant to scattered 2D data, by Robert Renka.
 For details: https://people.sc.fsu.edu/~jburkardt/f_src/toms790/toms790.html
 
+wigner_3j_lib.f90: module, constructs a set of Wigner 3j symbols using a recursion equation.
+For details: K. Schulten and R.G. Gordon, J. Math. Phys. 16, 1961-1970 (1975), IBID. 16, 1971-1988 (1975)
 
 How to use
 ----------
